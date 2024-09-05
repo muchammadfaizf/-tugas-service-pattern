@@ -8,3 +8,4 @@ export const CLOUDINARY_API_SECRET: string =
 export const CLOUDINARY_CLOUD_NAME: string =
   process.env.CLOUDINARY_CLOUD_NAME || "";
 export const DATABASE_URL: string = process.env.DATABASE_URL || "";
+export const SECRET: string = process.env.SECRET || "6701b258406fafc6f0955bbd9562100a";
